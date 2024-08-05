@@ -31,5 +31,6 @@ VaccinationProgressByLocation: View for vaccination progress by location.
 DailyNewCasesDeathsOverTime: View for daily new cases and deaths over time.
 CorrelationVaccinationsNewCases: View for the correlation between vaccinations and new cases.
 
-Conclusion
+#### Conclusion
+
 This project demonstrates how to effectively use SQL for data exploration and analysis, providing a foundation for building insightful dashboards to track and analyze COVID-19 data.
